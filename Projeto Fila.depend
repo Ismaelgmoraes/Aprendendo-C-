@@ -1,4 +1,11 @@
 # depslib dependency file v1.0
-1584205420 source:c:\users\samuel\documents\projeto fila\main.cpp
+1660432976 source:c:\users\samuel\documents\projeto fila\main.cpp
 	<iostream>
+	"Fila.h"
+
+1659911463 source:c:\users\samuel\documents\projeto fila\src\fila.cpp
+	<iostream>
+	"Fila.h"
+
+1659910233 c:\users\samuel\documents\projeto fila\include\fila.h
 
